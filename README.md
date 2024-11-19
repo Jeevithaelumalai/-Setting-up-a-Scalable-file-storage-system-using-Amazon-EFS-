@@ -65,7 +65,7 @@ cat file
 
 ![image](https://github.com/user-attachments/assets/98aa9b94-9bf6-4826-bc06-1a6b0bd50ca1)
 
-![image](https://github.com/user-attachments/assets/023ffc1b-bf35-4bdc-bd36-710adaf3f1b2)
+
 
 ![Screenshot 2024-11-19 125147](https://github.com/user-attachments/assets/dc574540-bb3f-45f9-988b-25fae9a7f7e4)
 
